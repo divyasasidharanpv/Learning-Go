@@ -11,9 +11,4 @@ func main() {
 	fmt.Println("Values of a, b and c are: ", a, b, c)
 }
 
-func variable() {
-	a = 1
-	b = 2
-	c = 3
-	fmt.Println("Values of a, b and c are: ", a, b, c)
-}
+
